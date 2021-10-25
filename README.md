@@ -1,13 +1,13 @@
 # Customer-Analytics-in-Python
-I use various Data Science and machine learning techniques to analyze customer data using STP framework. 
+Various Data Science and machine learning techniques to analyze customer data using STP framework. 
 
-Segmentation.ipynb : I perform correlation estimates, standardise the data, use segmentation, hierarchical clustering, k-means, PCA techniques with a lot of visualizations such as heatmaps, clusters, dendrograms, scatter plots to segment and understand customer data.
+Segmentation.ipynb : Correlation estimates, standardise the data, use segmentation, hierarchical clustering, k-means, PCA techniques with a lot of visualizations such as heatmaps, clusters, dendrograms, scatter plots to segment and understand customer data.
 
-Purchase Analytics Descriptive Analysis.ipynb : In this notebook, I have used the segmentation model to divide customers into segments and gain insights about their shopping habits. I have done exploratory data analysis. I have answered questions like how often people go shopping, how much money do they spend, how often do they buy a product relative to their store visits. I created dummy variables for the required features. I have answered questions like which brand is preferred by each segment, what are the reasons for their selection. I have also come up with ideas to improve the sales of a brand. I also analyzed different segments based on revenue. 
+Purchase Analytics Descriptive Analysis.ipynb : Used the segmentation model to divide customers into segments and gain insights about their shopping habits. Contains exploratory data analysis. Questions like how often people go shopping, how much money do they spend, how often do they buy a product relative to their store visits. Dummy variables are created for the required features. Questions like which brand is preferred by each segment, what are the reasons for their selection are answered. And Ideas to improve the sales of a brand. Analysis of different segments based on revenue. 
 
-Purchase Analytics Predictive Analysis.ipynb : I have caluclated price elasticity of purchase probability and quantity, purchase probability by segments, purchase probability with and without promotion, price elasticity with and without promotion, own and cross price elasticities by segment and analyzed brand choice by customers and customers segments.
+Purchase Analytics Predictive Analysis.ipynb : Caluclated price elasticity of purchase probability and quantity, purchase probability by segments, purchase probability with and without promotion, price elasticity with and without promotion, own and cross price elasticities by segment and analyzed brand choice by customers and customers segments.
 
-Deep Learning.ipynb : The deep learning model predicts if a customer is going to make a purchase again from the audiobook company. I balanced the dataset, preprocessed the data, outlined the model, trained and tested it.
+Deep Learning.ipynb : The deep learning model predicts if a customer is going to make a purchase again from the audiobook company. It has balanced dataset, preprocessed data, outlined model, trained and tested.
 
 The file segmentation data.csv is the dataset used to build the segmentation model (Customer Analytics Segmentation.ipynb).
 
